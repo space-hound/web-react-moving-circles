@@ -9,3 +9,5 @@ export const SPEED = {
 }
 
 export const FRAMES = 1000 / 60;
+
+export const BROWNIAN = 250;
